@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @flybella
-- 👀 I’m interested in music, film, web dev and UX/UI
-- 🌱 I’m currently learning Web Development on the Odin Project
+- 👋 Hi, I’m @ale-bonomi
+- 👀 I’m interested in music, film, and UX/UI
+- 🌱 I’m currently learning to development audio plugins in order to send other producers down an endless rabbit hole searching for the plugins I used for my sick beatz
 - 💞️ I’m looking to collaborate on anything vibey
-- 📫 How to reach me ... you don't. I slink in the shadows and strike with the rustling leaves in the wind.
-
-<!---
-flybella/flybella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... dm on ig @alesssandromatteo
